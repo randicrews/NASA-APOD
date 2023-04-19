@@ -1,4 +1,4 @@
-# WHAT'S MY SIGN?
+# NASA APOD
 A simple web app that provides the Astrology Picture of the Day from NASAs APOD API based on the user input date. 
 
 [Check it out here :sparkles:](https://nasaxapod.netlify.app/)
